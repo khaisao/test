@@ -21,6 +21,5 @@ class MainActivity : AppCompatActivity() {
 
         fun abc() {
 
-
         }
     }
