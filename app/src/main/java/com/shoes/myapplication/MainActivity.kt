@@ -9,11 +9,16 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    fun helloWorld(b: Int, a: String){
+    fun helloWorld(b: Int, d: Boolean) {
 
+
+        }
+
+        fun test() {
+
+        }
+
+        fun abc() {
+
+        }
     }
-
-    fun test(){
-
-    }
-}
