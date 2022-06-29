@@ -22,5 +22,6 @@ class MainActivity : AppCompatActivity() {
 
     fun abc() {
         Log.d("kasjhgk", "abc: ")
+
     }
 }
