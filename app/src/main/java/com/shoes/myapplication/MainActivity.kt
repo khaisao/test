@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    fun helloWorld(b: Int){
+    fun helloWorld(b: Int, a: String){
 
     }
 
