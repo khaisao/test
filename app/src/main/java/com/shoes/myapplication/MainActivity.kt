@@ -20,6 +20,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         fun abc() {
-
+         var x = 1
         }
     }
