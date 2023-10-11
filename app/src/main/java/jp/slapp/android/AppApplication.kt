@@ -1,4 +1,4 @@
-package jp.supakura.android
+package jp.slapp.android
 
 import android.app.Activity
 import android.app.Application

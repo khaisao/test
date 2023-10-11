@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "jp.supakura.android"
+    namespace = "jp.slapp.android"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "jp.supakura.android"
+        applicationId = "jp.slapp.android"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

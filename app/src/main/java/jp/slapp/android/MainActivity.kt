@@ -1,4 +1,4 @@
-package jp.supakura.android
+package jp.slapp.android
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

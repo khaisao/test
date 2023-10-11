@@ -1,4 +1,4 @@
-package jp.supakura.android
+package jp.slapp.android
 
 import android.content.Context
 import android.util.Log
@@ -20,7 +20,7 @@ class AppsFlyerUtil {
         fun createAppsFlyer(context: Context) {
             this.context = context
             appsFlyer = AppsFlyerLib.getInstance()
-            appsFlyer.setAppId("jp.supakura.android")
+            appsFlyer.setAppId("jp.slapp.android")
             appsFlyer.init(AF_DEV_KEY, null, context)
             appsFlyer.start(context)
         }
